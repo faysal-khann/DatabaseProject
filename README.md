@@ -17,7 +17,6 @@ with a potential for scalability in the future.
 ## 🧩 ER Diagram
 ![ER Diagram](./assets/er-diagram.png)
 
-> Place your ER diagram image in `assets/er-diagram.png`
 
 ---
 
